@@ -1,0 +1,5 @@
+{
+    "mcu_fw_ver" : 1,
+    "mcu_fw_url" : "https://raw.githubusercontent.com/JUN-SEOPARK/NanoKem_OTA/refs/heads/main/blinkey_1hz.mot",
+    "mcu_fw_size : 7030
+}

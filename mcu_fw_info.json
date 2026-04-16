@@ -1,5 +1,5 @@
 {
-    "mcu_fw_ver" : 4,
-    "mcu_fw_url" : "https://raw.githubusercontent.com/JUN-SEOPARK/NanoKem_OTA/refs/heads/main/blinkey_1hz.mot",
-    "mcu_fw_size" : 7030
+    "mcu_fw_ver" : 2,
+    "mcu_fw_url" : "https://raw.githubusercontent.com/JUN-SEOPARK/NanoKem_OTA/refs/heads/main/ngtb-910cp(r5f100lg)_v0101_260403r00_Gen3_2hz.mot",
+    "mcu_fw_size" : 393776
 }
